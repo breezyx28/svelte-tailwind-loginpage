@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "svelte": "^3.37.0",
+    "svelte-fa": "^2.3.3",
+    "tailwindcss": "^2.2.14",
+    "vite": "^2.5.4"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@heroicons/vue": "^1.0.4"
+  }
+}
